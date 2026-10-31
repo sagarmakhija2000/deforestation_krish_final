@@ -1,0 +1,11 @@
+{
+  "fire_risk_probability": 0.8466666666666667,
+  "fire_risk_category": "Extreme",
+  "input": {
+    "temperature": 45.0,
+    "humidity": 9.99,
+    "wind_speed": 29.03,
+    "rainfall": 5.25
+  },
+  "model_source": "https://archive.ics.uci.edu/dataset/547/algerian+forest+fires+dataset"
+}

@@ -1,0 +1,45 @@
+{
+  "metrics": {
+    "accuracy": 1.0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0,
+    "roc_auc": 1.0,
+    "confusion_matrix": [
+      [
+        43,
+        0
+      ],
+      [
+        0,
+        61
+      ]
+    ]
+  },
+  "feature_importance": [
+    {
+      "feature": "historical_fire",
+      "importance": 0.9258847070124735
+    },
+    {
+      "feature": "temperature",
+      "importance": 0.026321211468833726
+    },
+    {
+      "feature": "humidity",
+      "importance": 0.02615686014737332
+    },
+    {
+      "feature": "wind_speed",
+      "importance": 0.02051919100237488
+    },
+    {
+      "feature": "rainfall",
+      "importance": 0.0011180303689444743
+    },
+    {
+      "feature": "ndvi",
+      "importance": 0.0
+    }
+  ]
+}
